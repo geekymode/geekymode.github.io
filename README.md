@@ -10,9 +10,10 @@ Ola
 <cite>— Voltaire, Candide</cite>
 
 ## Some Panglossian musings
+* [Journey to Mt. Whitney](https://geekymode.github.io/WhitneyBlog/) 2025/06/16
 * [Fun with Collatz conjecture](https://geekymode.github.io/CollatzBlog/) 2025/06/06
 * [The paths of knowledge](https://geekymode.github.io/warsaw2025sanskrit/) 2025/05/20
-* [When Ancient Wisdom Meets Modern Wandering: A Plato signature on the walls](https://geekymode.github.io/warsaw2025Plato/) 2025/05/19
+* [A Plato signature on the walls](https://geekymode.github.io/warsaw2025Plato/) 2025/05/19
 
 
 
