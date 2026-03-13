@@ -14,7 +14,6 @@ Ola
 * [Fun with Collatz conjecture](https://geekymode.github.io/CollatzBlog/) 2025/06/06
 * [The paths of knowledge](https://geekymode.github.io/warsaw2025sanskrit/) 2025/05/20
 * [A Plato signature on the walls](https://geekymode.github.io/warsaw2025Plato/) 2025/05/19
-
 * [Hiking to Havasupai](https://geekymode.github.io/havasupai/) 2026/03/06
 
 ## Technical Jottings
